@@ -1,4 +1,7 @@
 <h1>HR Analytics Dashboard Project</h1>
+
+![image](https://github.com/Ani-develops/power_bi_hr_analytics/assets/137860990/e94114ef-d07a-4927-8488-803f6959a4fc)
+
 <h2>Objective</h2>
 This project aims to create a comprehensive HR analytics dashboard using Microsoft Power BI to provide deep insights into employee attrition, performance metrics, and engagement levels within the organization.
 
